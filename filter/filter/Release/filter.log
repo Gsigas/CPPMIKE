@@ -1,0 +1,28 @@
+﻿  filter.cpp
+c:\users\sigas\documents\visual studio 2015\projects\filter\filter\FilterGamma.h(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\sigas\documents\visual studio 2015\projects\filter\filter\FilterGamma.h(44): warning C4018: '<': signed/unsigned mismatch
+filter.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\sigas\documents\visual studio 2015\projects\filter\filter\Array.h(44): warning C4018: '<': signed/unsigned mismatch
+  c:\users\sigas\documents\visual studio 2015\projects\filter\filter\Array.h(41): note: while compiling class template member function 'void math::Array<imaging::element>::setItem(unsigned int,unsigned int,T &)'
+          with
+          [
+              T=imaging::element
+          ]
+  c:\users\sigas\documents\visual studio 2015\projects\filter\filter\FilterLinear.h(35): note: see reference to function template instantiation 'void math::Array<imaging::element>::setItem(unsigned int,unsigned int,T &)' being compiled
+          with
+          [
+              T=imaging::element
+          ]
+  c:\users\sigas\documents\visual studio 2015\projects\filter\filter\Image.h(40): note: see reference to class template instantiation 'math::Array<imaging::element>' being compiled
+c:\users\sigas\documents\visual studio 2015\projects\filter\filter\Array.h(31): warning C4018: '<': signed/unsigned mismatch
+  c:\users\sigas\documents\visual studio 2015\projects\filter\filter\Array.h(29): note: while compiling class template member function 'imaging::element math::Array<imaging::element>::getItem(unsigned int,unsigned int) const'
+  c:\users\sigas\documents\visual studio 2015\projects\filter\filter\FilterLinear.h(32): note: see reference to function template instantiation 'imaging::element math::Array<imaging::element>::getItem(unsigned int,unsigned int) const' being compiled
+  Image.cpp
+Image.cpp(37): warning C4018: '<': signed/unsigned mismatch
+Image.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+c:\users\sigas\documents\visual studio 2015\projects\filter\filter\array.h(102): warning C4172: returning address of local variable or temporary
+  All 406 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  filter.vcxproj -> c:\users\sigas\documents\visual studio 2015\Projects\filter\Release\filter.exe
+  filter.vcxproj -> c:\users\sigas\documents\visual studio 2015\Projects\filter\Release\filter.pdb (Full PDB)

@@ -1,0 +1,26 @@
+﻿  Image.cpp
+c:\users\sigas\documents\visual studio 2015\projects\filter\filter\image.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\sigas\documents\visual studio 2015\projects\filter\filter\image.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  filter.cpp
+c:\users\sigas\documents\visual studio 2015\projects\filter\filter\filtergamma.h(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\sigas\documents\visual studio 2015\projects\filter\filter\filtergamma.h(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\sigas\documents\visual studio 2015\projects\filter\filter\filter.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\sigas\documents\visual studio 2015\projects\filter\filter\array.h(44): warning C4018: '<': signed/unsigned mismatch
+  c:\users\sigas\documents\visual studio 2015\projects\filter\filter\array.h(41): note: while compiling class template member function 'void math::Array<imaging::element>::setItem(unsigned int,unsigned int,T &)'
+          with
+          [
+              T=imaging::element
+          ]
+  c:\users\sigas\documents\visual studio 2015\projects\filter\filter\filterlinear.h(35): note: see reference to function template instantiation 'void math::Array<imaging::element>::setItem(unsigned int,unsigned int,T &)' being compiled
+          with
+          [
+              T=imaging::element
+          ]
+  c:\users\sigas\documents\visual studio 2015\projects\filter\filter\image.h(40): note: see reference to class template instantiation 'math::Array<imaging::element>' being compiled
+c:\users\sigas\documents\visual studio 2015\projects\filter\filter\array.h(31): warning C4018: '<': signed/unsigned mismatch
+  c:\users\sigas\documents\visual studio 2015\projects\filter\filter\array.h(29): note: while compiling class template member function 'imaging::element math::Array<imaging::element>::getItem(unsigned int,unsigned int) const'
+  c:\users\sigas\documents\visual studio 2015\projects\filter\filter\filterlinear.h(32): note: see reference to function template instantiation 'imaging::element math::Array<imaging::element>::getItem(unsigned int,unsigned int) const' being compiled
+  Generating Code...
+c:\users\sigas\documents\visual studio 2015\projects\filter\filter\array.h(102): warning C4172: returning address of local variable or temporary
+  filter.vcxproj -> c:\users\sigas\documents\visual studio 2015\Projects\filter\Debug\filter.exe
+  filter.vcxproj -> c:\users\sigas\documents\visual studio 2015\Projects\filter\Debug\filter.pdb (Partial PDB)

@@ -1,0 +1,13 @@
+﻿  ppm.cpp
+c:\users\sigas\documents\visual studio 2015\projects\filter\ppm\ppm.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\sigas\documents\visual studio 2015\projects\filter\ppm\ppm.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\sigas\documents\visual studio 2015\projects\filter\ppm\ppm.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\sigas\documents\visual studio 2015\projects\filter\ppm\ppm.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\sigas\documents\visual studio 2015\projects\filter\ppm\ppm.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\sigas\documents\visual studio 2015\projects\filter\ppm\ppm.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\sigas\documents\visual studio 2015\projects\filter\ppm\ppm.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\sigas\documents\visual studio 2015\projects\filter\ppm\ppm.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\sigas\documents\visual studio 2015\projects\filter\ppm\ppm.cpp(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\sigas\documents\visual studio 2015\projects\filter\ppm\ppm.cpp(112): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+c:\users\sigas\documents\visual studio 2015\projects\filter\ppm\ppm.cpp(159): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  ppm.vcxproj -> c:\users\sigas\documents\visual studio 2015\Projects\filter\ppm\ppm_d.lib
